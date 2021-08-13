@@ -3,7 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 chrome_driver = './drivers/chromedriver.exe'
-# firefox_driver = './drivers/geckodriver.exe'
 
 
 def pytest_addoption(parser):

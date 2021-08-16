@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c93bd8be-5d6d-4ee0-9f42-6decc4ad7ba8" name="etercity">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="OPEN_IN_BROWSER_GIST" value="false" />
     <option name="PRIVATE_GIST" value="false" />

@@ -1,0 +1,88 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (Autotest_Comparium)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\Alex\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1015310289" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (stepik)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\Alex\PycharmProjects\stepik\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/stepik/venv/Lib/site-packages/setuptools-39.1.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik/venv/Lib/site-packages/pip-10.0.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1920205225" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/stepik" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (stepik_auto_tests_course)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="C:\Users\Alex\PycharmProjects\stepik_auto_tests_course\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik_auto_tests_course/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik_auto_tests_course/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/stepik_auto_tests_course/venv/Lib/site-packages/setuptools-39.1.0-py3.8.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/stepik_auto_tests_course/venv/Lib/site-packages/pip-10.0.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/851594913" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/stepik_auto_tests_course" />
+    </jdk>
+  </component>
+</application>
